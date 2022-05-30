@@ -9,6 +9,7 @@ Empowered By Intorative Web 3.0 Ideas
 # Polygon Testnet Contract Adress ..  
 `0xCD0932D27D1b82171BeBc39ef65E32aCB8FdD806`  
   
-## Remember : Testnet Is Not Currently CrossChained With Mainnet Yet .. So The Price Wont Equal i.e. {Testnet $ = Mainnet $}
+## Remember : Testnet Is Not Currently Cross Chained With Mainnet Yet .. So The Price Wont Equal  
+# i.e !{Testnet $ = Mainnet $}  
   
 # `More Docs Updated Later ..`  
