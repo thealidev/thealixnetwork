@@ -5,9 +5,9 @@
 Empowered By Intorative Web 3.0 Ideas  
   
 # Polygon Mainet Contract Adress ..  
-`--Currently Not On Chain--`  
+`0x68380fC0FA1614639948ebc09B9251A24F6559C1`  
 # Polygon Testnet Contract Adress ..  
-`0xCD0932D27D1b82171BeBc39ef65E32aCB8FdD806`  
+`0x41A0daccd154056F13E49E21Af07791fCaba1571`  
   
 ## Remember : Testnet Is Not Currently Cross Chained With Mainnet Yet .. So The Price Wont Equal  
 # i.e !{Testnet $ = Mainnet $}  
