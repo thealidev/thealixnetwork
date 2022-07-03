@@ -1,17 +1,20 @@
-## The AliX Tech Token Will Known As Best Tech Token Created On Polygon (MATIC) BlockChain  
+## The AliX Tech Token Will Known As Best Tech Token Created On Binance Smart Chain (BSC) BlockChain  
   
 ## Main Features  
   
 Empowered By Intorative Web 3.0 Ideas  
   
-# Polygon Mainet Contract Adress ..  
-`0x68380fC0FA1614639948ebc09B9251A24F6559C1`  
-# Polygon Testnet Contract Adress ..  
-`0x41A0daccd154056F13E49E21Af07791fCaba1571`  
+# BSC Mainet Contract Adress ..  
+`Updated Later`  
+# BSC Testnet Contract Adress ..  
+`Updated Soon In 30 Min`  
   
 # Buy  
-https://app.sushi.com/swap?tokens=MATIC&tokens=0x68380fC0FA1614639948ebc09B9251A24F6559C1  
-# Block Explorer
-https://polygonscan.com/token/0x68380fC0FA1614639948ebc09B9251A24F6559C1  
+`Updated Later`  
+# Block Explorer (Mainnet)
+`Updated Later`  
+
+# Block Explorer (Testnet)
+`Updated Later`  
   
 # `More Docs Updated Later ..`  
