@@ -7,7 +7,7 @@ Empowered By Intorative Web 3.0 Ideas
 # BSC Mainet Contract Adress ..  
 `Updated Later`  
 # BSC Testnet Contract Adress ..  
-`Updated Soon In 30 Min`  
+`0x111A34390Ff047de747f238fA8F7102aC45cA146`  
   
 # Buy  
 `Updated Later`  
