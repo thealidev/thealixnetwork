@@ -1,0 +1,41 @@
+# If You Want To List Our Token AnyWhere  
+Use This Info  
+  
+Token Name  
+`The AliX Tech`
+Token Symbol  
+`ALIX`
+Description  
+`The AliX Tech Token Will Known As Best Tech Token Created On Polygon (MATIC) BlockChain`
+Website URL  
+`https://token.thealixtech.xyz/`
+Whitepaper Link  
+`https://github.com/thealixtech/token/blob/main/whitepaper.md`
+Submitter's Role  
+`Investor`
+Exchange Trade URL  
+`https://app.sushi.com/swap?tokens=MATIC&tokens=0x68380fC0FA1614639948ebc09B9251A24F6559C1&chainId=137`
+Block Explorer Link  
+`https://polygonscan.com/token/0x68380fC0FA1614639948ebc09B9251A24F6559C1`
+Blockchain Platform  
+`Polygon (MATIC)`
+Contract Address  
+`0x68380fC0FA1614639948ebc09B9251A24F6559C1`
+Contract Decimal Places  
+`18`
+Token Supply  
+`5000000.0`
+Max Supply  
+`5000000.0`
+Twitter Profile Link  
+`https://twitter.com/thealixtech`
+Facebook Profile Link  
+`https://www.facebook.com/thealixtechpage`
+Youtube Channel Link  
+`https://www.youtube.com/channel/UCcT85ZYWD_XKK4XkuSJZNyw`
+Discord Invitation Url  
+`https://discord.gg/F7T95jHFbM`
+Github  
+`https://github.com/thealixtech/token`
+Any other info?  
+`NA`
