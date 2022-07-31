@@ -1,20 +1,23 @@
 If You Want To List Our Token AnyWhere
 Use This Info
-  
+
+
+Polygon(MATIC) Contract :
+{
 Token Name
-The AliX Tech
+The AliX Network
 
 Token Symbol
 ALIX
 
 Description
-The AliX Tech Token Will Known As Best Tech Token Created On Polygon (MATIC) BlockChain.
+The AliX Tech Network Will Known As Best Tech Network BlockChain.
 
 Website URL
-https://token.thealixtech.xyz/
+NA
 
 Whitepaper Link
-https://github.com/thealixtech/token/blob/main/whitepaper.md
+https://github.com/thealixtech/thealixnetwork/blob/main/whitepaper.md
 
 Submitter's Role
 Investor
@@ -41,21 +44,22 @@ Max Supply
 5000000.0
 
 Twitter Profile Link
-https://twitter.com/thealixtech
+NS
 
 Facebook Profile Link
-https://www.facebook.com/thealixtechpage
+NA
 
 Youtube Channel Link
-https://www.youtube.com/channel/UCcT85ZYWD_XKK4XkuSJZNyw
+NA
 
 Discord Invitation Url
-https://discord.gg/F7T95jHFbM
+NA
 
 Github
-https://github.com/thealixtech/token
+https://github.com/thealidev/thealixnetwork
 
 Any other info?
 NA
+}
 
 Thanks
