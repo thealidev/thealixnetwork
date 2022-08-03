@@ -16,6 +16,9 @@ Empowered By Intorative Web 3.0 Ideas
 # Buy  
 https://quickswap.exchange/#/swap  
   
+# Price Chat
+https://quickswap.exchange/#/analytics/token/0x68380fc0fa1614639948ebc09b9251a24f6559c1  
+  
 # Block Explorer (Mainnet)
 NA  
 # Block Explorer (Testnet)
