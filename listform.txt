@@ -14,7 +14,7 @@ Description
 The AliX Tech Network Will Known As Best Tech Network BlockChain.
 
 Website URL
-NA
+https://github.com/thealidev/thealixnetwork
 
 Whitepaper Link
 https://github.com/thealixtech/thealixnetwork/blob/main/whitepaper.md
@@ -43,22 +43,10 @@ Token Supply
 Max Supply
 5000000.0
 
-Twitter Profile Link
-NA
-
-Facebook Profile Link
-NA
-
-Youtube Channel Link
-NA
-
-Discord Invitation Url
-NA
-
 Github
 https://github.com/thealidev/thealixnetwork
 
-Any other info?
+Any other required thing?
 NA
 }
 
