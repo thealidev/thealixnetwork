@@ -23,7 +23,7 @@ Submitter's Role
 Investor
 
 Exchange Trade URL
-https://app.sushi.com/swap?tokens=MATIC&tokens=0x68380fC0FA1614639948ebc09B9251A24F6559C1&chainId=137
+https://quickswap.exchange/#/swap
 
 Block Explorer Link
 https://polygonscan.com/token/0x68380fC0FA1614639948ebc09B9251A24F6559C1
@@ -44,7 +44,7 @@ Max Supply
 5000000.0
 
 Twitter Profile Link
-NS
+NA
 
 Facebook Profile Link
 NA
