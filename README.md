@@ -14,7 +14,7 @@ Empowered By Intorative Web 3.0 Ideas
 `NA`  
   
 # Buy  
-NA  
+https://quickswap.exchange/#/swap  
   
 # Block Explorer (Mainnet)
 NA  
