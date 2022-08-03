@@ -15,7 +15,7 @@ Empowered By Intorative Web 3.0 Ideas
 `NA`  
   
 # Price Chat And Buy
-https://quickswap.exchange/#/analytics/token/0x68380fc0fa1614639948ebc09b9251a24f6559c1  
+https://quickswap.exchange/#/analytics/pair/0x22f946952bbF6962c7d0eFAf9AD5190a9e6901CB  
   
 # Block Explorer (Mainnet)
 NA  
