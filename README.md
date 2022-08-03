@@ -9,7 +9,7 @@ Empowered By Intorative Web 3.0 Ideas
   
   
 # Mainet Contract Adress ..  
-`NA`  
+`0x68380fC0FA1614639948ebc09B9251A24F6559C1`  
 # Testnet Contract Adress ..  
 `NA`  
   
