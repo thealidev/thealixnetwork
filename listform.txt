@@ -20,7 +20,7 @@ Submitter's Role
 Investor
 
 Exchange Trade URL
-https://quickswap.exchange/#/swap
+https://quickswap.exchange/#/analytics/pair/0x22f946952bbF6962c7d0eFAf9AD5190a9e6901CB
 
 Block Explorer Link
 https://polygonscan.com/token/0x68380fC0FA1614639948ebc09B9251A24F6559C1
