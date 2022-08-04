@@ -1,9 +1,6 @@
 If You Want To List Our Token AnyWhere
 Use This Info
 
-
-Polygon(MATIC) Contract :
-{
 Token Name
 The AliX Network
 
@@ -48,6 +45,5 @@ https://github.com/thealidev/thealixnetwork
 
 Any other required thing?
 NA
-}
 
 Thanks
